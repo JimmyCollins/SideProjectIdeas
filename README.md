@@ -2,4 +2,4 @@
 
 This repo captures some side projects I am working on in the interest of learning new languages and technoloiges.
 
-See the Projects tab for status of 2020 side projects.
+See [Projects](https://github.com/JimmyCollins/side-projects-ideas/projects/1) for the list / status of my 2020 side projects.
